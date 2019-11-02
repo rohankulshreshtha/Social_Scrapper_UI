@@ -3,7 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { ParentComponent } from './parent/parent.component';
 
 const routes: Routes = [
-  // { path: 'scrapper', component: ParentComponent }
+   {path: '', component: ParentComponent}
 ];
 
 @NgModule({
