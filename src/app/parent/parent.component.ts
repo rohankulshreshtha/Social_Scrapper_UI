@@ -1870,7 +1870,6 @@ export class ParentComponent implements OnInit {
           }
    ];
 
-   console.log(this.twitter);
 
           $('#loader_area').addClass('d-none');
           $('#result_area').removeClass('d-none');
