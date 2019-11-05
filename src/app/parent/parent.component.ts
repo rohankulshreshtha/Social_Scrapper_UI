@@ -11,7 +11,7 @@ declare var $: any;
 export class ParentComponent implements OnInit {
 
   restItems: any;
-  restItemsUrl = '/app/scrape/twitter?name=';
+  restItemsUrl = '/app/scrape/combined?name=';
   insta:any;
   twitter:any;
   wiki:any;
